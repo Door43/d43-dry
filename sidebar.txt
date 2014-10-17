@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[dry:home|Door43 (dry)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-dry|d43-dry repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-dry/archive/master.zip|d43-dry.zip]]
+
+**Recent Changes**
+{{changes>ns = dry}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/dry|Ethnologue data]]
+
